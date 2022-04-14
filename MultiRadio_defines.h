@@ -51,15 +51,15 @@ void memcpy_int(uint32_t *str1, const uint32_t *str2, size_t n);
 #define SPI_CHANNEL (1)  
 
 #define UDP_PORT 		  (8888)
-#define UDP_SERVER		"192.168.1.9"
+#define UDP_SERVER		"155.185.49.29"
 
 #define UDP_SCK 		  (1)
 
 #define DATA_PAY_S		(500)  //LORA_PAY_S  [quindi pacchetti di 
 
 
-#define WIFI_SSID     "ChiaraRobby-Rptnew"
-#define WIFI_PASS     "maggio2017"
+#define WIFI_SSID     "VANGOGH"
+#define WIFI_PASS     "vangogh123"
 // ---------------------------------------------------------------------------------
 
 
